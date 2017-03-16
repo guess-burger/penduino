@@ -5,7 +5,7 @@ The project was originally hosted on Google Code where it stayed, somewhat aband
 
 The original idea was to make building an inverted pendulum a simple and cheap process.
 
-![alt text](https://github.com/guess-burger/penduino/raw/master/wiki/img/robot.jpg "Penduino Logo")
+![Robot](https://github.com/guess-burger/penduino/raw/master/wiki/img/robot.jpg "Robot")
 
 The project was comprised of the hardware and software for small inverted pendulum robot as well as the control software for a balance telemetry and tuning app.
 
